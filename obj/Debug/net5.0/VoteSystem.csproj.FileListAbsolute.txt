@@ -1,0 +1,15 @@
+/Users/adminee/Desktop/VoteSystem/bin/Debug/net5.0/VoteSystem.deps.json
+/Users/adminee/Desktop/VoteSystem/bin/Debug/net5.0/VoteSystem.runtimeconfig.json
+/Users/adminee/Desktop/VoteSystem/bin/Debug/net5.0/VoteSystem.runtimeconfig.dev.json
+/Users/adminee/Desktop/VoteSystem/bin/Debug/net5.0/VoteSystem.dll
+/Users/adminee/Desktop/VoteSystem/bin/Debug/net5.0/ref/VoteSystem.dll
+/Users/adminee/Desktop/VoteSystem/bin/Debug/net5.0/VoteSystem.pdb
+/Users/adminee/Desktop/VoteSystem/obj/Debug/net5.0/VoteSystem.csproj.AssemblyReference.cache
+/Users/adminee/Desktop/VoteSystem/obj/Debug/net5.0/VoteSystem.GeneratedMSBuildEditorConfig.editorconfig
+/Users/adminee/Desktop/VoteSystem/obj/Debug/net5.0/VoteSystem.AssemblyInfoInputs.cache
+/Users/adminee/Desktop/VoteSystem/obj/Debug/net5.0/VoteSystem.AssemblyInfo.cs
+/Users/adminee/Desktop/VoteSystem/obj/Debug/net5.0/VoteSystem.csproj.CoreCompileInputs.cache
+/Users/adminee/Desktop/VoteSystem/obj/Debug/net5.0/VoteSystem.dll
+/Users/adminee/Desktop/VoteSystem/obj/Debug/net5.0/ref/VoteSystem.dll
+/Users/adminee/Desktop/VoteSystem/obj/Debug/net5.0/VoteSystem.pdb
+/Users/adminee/Desktop/VoteSystem/obj/Debug/net5.0/VoteSystem.genruntimeconfig.cache
